@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharpBlog</name>
+    </assembly>
+    <members>
+        <member name="M:CSharpBlog.Controllers.AccountController.RefreshToken(CSharpBlog.Service.Dtos.Auth.AuthRequestDto)">
+            <summary>
+            This is a test method
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

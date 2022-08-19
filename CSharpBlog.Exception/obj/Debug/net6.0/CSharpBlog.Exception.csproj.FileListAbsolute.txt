@@ -1,0 +1,16 @@
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/appsettings.json
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/CSharpBlog.Exception.deps.json
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/CSharpBlog.Exception.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/CSharpBlog.Exception.pdb
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/CSharpBlog.Repository.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/bin/Debug/net6.0/CSharpBlog.Repository.pdb
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.csproj.AssemblyReference.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.AssemblyInfoInputs.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.AssemblyInfo.cs
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.csproj.CoreCompileInputs.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.csproj.CopyComplete
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/refint/CSharpBlog.Exception.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/CSharpBlog.Exception.pdb
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Exception/obj/Debug/net6.0/ref/CSharpBlog.Exception.dll

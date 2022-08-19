@@ -1,0 +1,15 @@
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/bin/Debug/net6.0/CSharpBlog.Repository.deps.json
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/bin/Debug/net6.0/CSharpBlog.Repository.runtimeconfig.json
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/bin/Debug/net6.0/CSharpBlog.Repository.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/bin/Debug/net6.0/CSharpBlog.Repository.pdb
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.csproj.AssemblyReference.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.AssemblyInfoInputs.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.AssemblyInfo.cs
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.csproj.CoreCompileInputs.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/refint/CSharpBlog.Repository.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.pdb
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/CSharpBlog.Repository.genruntimeconfig.cache
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/obj/Debug/net6.0/ref/CSharpBlog.Repository.dll
+/Users/naikerwong/Desktop/Projects/CSharpBlog/CSharpBlog.Repository/bin/Debug/net6.0/appsettings.json
