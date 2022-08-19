@@ -53,12 +53,6 @@ namespace CSharpBlog.Controllers
             return blog;
         }
         
-        // TODO : Add Get Blogs by UserId
-        // TODO : Add Put Blog by UserId - Need Authorization
-        // TODO : Add Delete Blog by UserId - Need Authorization
-        // TODO : Add Post Blog by UserId - Need Authorization
-        
-
         
         // Restricted to admin
         // PUT: api/Blogs/5
@@ -78,10 +72,6 @@ namespace CSharpBlog.Controllers
                 {
                     return NotFound();
                 }
-                // else
-                // {
-                //     throw;
-                // }
             }
 
             return NoContent();
